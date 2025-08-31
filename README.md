@@ -23,14 +23,6 @@ A VS Code extension that helps you test LeetCode problems directly in your devel
 
 ## Installation
 
-### Method 1: VS Code Marketplace
-
-1. Open VS Code
-2. Go to Extensions (Ctrl+Shift+X)
-3. Search for "Competitive Programming Helper LeetCode"
-4. Click Install
-
-### Method 2: Manual Installation
 ```bash
 git clone https://github.com/your-username/cph-leetcode
 cd cph-leetcode
@@ -63,19 +55,7 @@ npm run compile
 - Node.js 22.10.0 or higher
 - Active internet connection for fetching test cases
 
-## Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LISCENSE) file for details.
-<hr>
-
-~ Made with ❤️ for competitive programmers
+Submission by ~
+Pukhraj Choudhary (22115124).
+Did this project under MARS IIT Roorkee.
